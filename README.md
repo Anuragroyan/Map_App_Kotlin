@@ -14,7 +14,7 @@ The project focuses on understanding Android’s runtime permission system, loca
 * 🎨 Simple UI – Display location information in an easy-to-understand interface.
 
 🔄 Application Flow
-<img width="1224" height="1285" alt="image8" src="https://github.com/user-attachments/assets/ed38eb0e-ed99-4aa7-b3c8-072d3bf16fff" />
+<img width="1224" height="1285" alt="image9" src="https://github.com/user-attachments/assets/e811abe2-e17d-441d-bdab-09675d51f75c" />
 
 
 🛠️ Tech Stack
