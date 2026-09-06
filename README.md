@@ -1,3 +1,27 @@
-![Screenshot_20240406_004752](https://github.com/Anuragroyan/MapAppKotlin/assets/38952781/465e3f53-1d14-480b-ab46-feec7db90a44)
-![Screenshot_20240406_004802](https://github.com/Anuragroyan/MapAppKotlin/assets/38952781/409fe344-8f0a-4a9b-9e13-7e137c67702a)
-![Screenshot_20240406_004818](https://github.com/Anuragroyan/MapAppKotlin/assets/38952781/d8fc8c88-4963-4e1a-9165-d0319e5c020b)
+📍 Location Finder App
+Location Finder App is a Kotlin-based Android application that demonstrates how to access a device’s location using native Android location services. The app requests the necessary location permission from the user and, after permission is granted, retrieves and displays the device’s current location.
+
+The project focuses on understanding Android’s runtime permission system, location APIs, and how mobile applications securely access device-level location information.
+
+✨ Features
+* 📍 Current Location – Retrieve the device’s current location.
+* 📱 Native Location Services – Use Android’s built-in location capabilities.
+* 🔐 Runtime Permissions – Request location access from the user.
+* ✅ Permission Handling – Handle granted and denied permission states.
+* 🌐 Location Coordinates – Retrieve location information such as latitude and longitude.
+* 🔄 Location Updates – Access the device location when requested.
+* ⚠️ Permission Validation – Check whether the required permission is available before accessing location.
+* 🎨 Simple UI – Display location information in an easy-to-understand interface.
+
+🔄 Application Flow
+
+
+🛠️ Tech Stack
+* Kotlin
+* Android SDK
+* Native Android Location APIs
+* Runtime Permissions
+* AndroidX
+
+🎯 Project Purpose
+The project demonstrates the practical implementation of device location access and runtime permissions in Android. It helps understand how an application communicates with native device features while respecting user permission and privacy requirements.
